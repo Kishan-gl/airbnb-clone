@@ -12,7 +12,7 @@ The clone recreates the look and feel of Airbnb's homepage with clean design and
 - User review section (currently in progress)
 
 ## Tech Used
-- **HTML5**
+- **EJS**
 - **CSS3**
 - (JavaScript coming soon for interactive features)
 
